@@ -32,7 +32,7 @@ body {
 }
 
 #bg-layer {
-  background-color: black !important;
+  background-color: rgb(25, 25, 25) !important;
   position: fixed;
   top: 0;
   right: 0;
